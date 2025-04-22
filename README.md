@@ -274,7 +274,7 @@ visit [IPASS]
 
 ![image](https://github.com/user-attachments/assets/9965b108-e4e7-4fc5-9183-8e13ddedb7b5)
 
-- **Insights:** Top 3 districts with fuel sales growth in 2022 compared to 2021 are Rangareddy leads with an impressive 12.5% growth rate, followed closely by Hyderabad at 4.7%, and Karimnagar at 4.4%. These growth figures highlight the robust economic activity and urbanization trends in these districts.
+- **Insights:** Top 3 districts with fuel sales growth in 2022 compared to 2021 are Rangareddy leads with an impressive 12.52% growth rate, followed closely by Hyderabad at 4.74%, and Karimnagar at 4.42%. These growth figures highlight the robust economic activity and urbanization trends in these districts.
  
 - **Bootom 3 Districts Fuel vehicle Sales Growth:**
 
@@ -282,6 +282,49 @@ visit [IPASS]
 ![image](https://github.com/user-attachments/assets/3c399da7-46cc-4dc8-b7df-a5c01e47d7f8)
 
  **Insights:**
-- - Bottom 3 Districts in vehicle sales in 2022 compared to 2021 Warangal, Jagtial, and Nirmal districts faced substantial drops in vehicle sales at -44.7%, -37.1%, and -34.4% respectively
+- - Bottom 3 Districts in vehicle sales in 2022 compared to 2021 Warangal, Jagtial, and Nirmal districts faced substantial drops in vehicle sales at -44.69%, -37.15%, and -34.45% respectively
 - - These declines highlight the need to tailor business approaches to fit local market. changing consumer preferences
+
+
+## TS IPASS
+
+### TS-IPASS(Telangana State Industrial Project Approval and Self Certification System)
+
+### 📌Q8:List down the top 5 sectors that have witnessed the most significant investments in FY 2022 
+
+### Top 5 sectors most significant investments in FY 2022
+
+
+![image](https://github.com/user-attachments/assets/fc2a5deb-9b71-42f1-b274-c1f8b5e28e45)
+
+ **Insights:**
+- Real Estate, Industrial Parks & IT Buldings: Thriving due to high demand.
+- Pharmaceuticals and Chemicals: Steady growth, supporting various industries.
+- Plastic & Rubber: Experiences moderate activity compared to other sectors shown.
+- Solar and Renewable Energy: Commitment to sustainable power generation.
+- Engineering: Growing demand for engineering services, reflecting economic development.
+
+### 📌Q9: List down the that have attracted the most significant sector investments during FY 2019 to 2022? What factors could have led to the substantial investments in these particular districts?
+
+### Top 3 districts most significant sector investments during FY 2019 to 2022
+
+
+![image](https://github.com/user-attachments/assets/28d5c933-de6d-4ff9-b63a-f00d9a63f007)
+
+**Insights:**
+
+- In Rangareddy has most investment in come from real estate, industrial parks and IT buildings
+- In Sanagreddy plastic and rubber, automobile.
+- Medchal_malkajgiri  investment in pharmaceutical, and chemical engineering Sectors. 
+- These districts have strategic location, robust infrastructure, government support.
+
+### 📌Q10: Is there any relationship between district investments, vehicles sales and stamps revenue within the same district between FY 2021 and 2022?
+
+
+![image](https://github.com/user-attachments/assets/523c1349-c132-45fb-92db-e5ff9e2fd803)
+
+**Insights:**
+
+-  A positive correlation exists, indicating that districts with higher vehicle sales tend to have more revenue from e-stamp collections and investments
+- Top-Performing Districts: Rangareddy, Medchal Malkajgiri, and Sangareddy emerge as leading districts in terms of revenue, Hyderabad has less in  investments
 
