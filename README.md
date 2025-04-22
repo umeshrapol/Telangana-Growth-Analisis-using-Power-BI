@@ -137,3 +137,151 @@ visit [IPASS]
 
  ![image](https://github.com/user-attachments/assets/33db5c3d-ed16-4df0-80ae-87eb458001e9)
 
+ **Insights:** 
+- This top 5 districts are Generated 80% of the total Document Revenue. 
+- Rangareddy leads the 44%, while Medchal Malkajgiri follows with 26%. Hyderabad, Sangareddy, and Hanumakonda collectively make up to 28%. 
+- These districts have Urban infrastructure Development, educational institutions, IT and Commercial Spaces, and  transportation connectivity.
+
+ ### Top 5 districts highest document registration revenue growth between FY 2019 and 2022
+
+![image](https://github.com/user-attachments/assets/31fabc33-4450-41b2-ac08-61d81ccdfc42)
+
+
+ **Insights:**
+
+- Document Revenue growth can be attributed to several factors: the construction of roads, highways, and industrial zones
+- An increase in property transactions, both for homes and businesses.These factors have contributed significantly to the rise in revenue in these districts.
+
+### 📌Q2: How does the revenue generated from document registration compare to the revenue generated from e-stamp challans across districts? List down the top 5 districts where e-stamps revenue contributes significantly more to the revenue than the documents in FY 2022?
+
+
+
+![image](https://github.com/user-attachments/assets/9a19a4d9-06d5-4dd7-b735-e3d2a5ef067a)
+
+
+**Insights:** Janogaon, Nirmal, Mancherial, Rangareddy and Kamareddy, as increasing importance of electronic stamping as a preferred method of revenue collection in these districts, highlighting the growing digitalization of administrative processes.
+
+### 📌Q3: Is there any alteration of e-Stamp challan count and document registration count pattern since the implementation of e-Stamp challan? If so, what suggestions would you propose to the government?
+
+###  E-Stamp challan count and Document registration count Pattern
+
+
+![image](https://github.com/user-attachments/assets/ec943dde-2b34-4512-abbc-55e2145eff09)
+
+
+ **Insights:**
+- Since the implementation of e-Stamp challan, we observed some changes in the pattern of document registration counts.
+- In April 2020, there was a drop in document counts due to the COVID-19 pandemic. 
+- Additionally, the Telangana government introduced a new revenue act in 2020, leading to a temporary halt in document registrations from September 2020 to November 2020.
+- It's important to note that data for e-stamp registration is available from December 2020 onwards. 
+- During this period, the government launched the DARANI WEBSITE PORTAL for online property registration.
+- There was another drop in May 2021 due to the COVID-19 lockdown. Overall, we can see that both document and e-stamp counts became relatively similar in each month.
+
+### 📌Q4: Categorize districts into three segments based on their stamp registration revenue generation during the fiscal year 2021 to 2022
+
+ **High Revenue Growth Districts:**
+
+![image](https://github.com/user-attachments/assets/b08aa490-0448-42a5-918d-63e4985bd446)
+
+**Mid Revenue Growth Districts:**
+
+
+![image](https://github.com/user-attachments/assets/44b115f9-d2ed-4f30-81aa-250b1dda3d70)
+
+ **Low Revenue Growth Districts:**
+
+
+![image](https://github.com/user-attachments/assets/ffc456ee-1907-4706-b513-5081de06e135)
+
+## Transportation
+
+
+### 📌Q5: Investigate whether there is any correlation between vehicle sales and specific months or seasons in different districts. Are there any months or seasons that consistently show higher or lower sales rate, and if yes, what could be the driving factors? (Consider Fuel-Type category only).
+
+ ### Top 10 Districts vehicle sales (Fuel –Type Category)
+
+![image](https://github.com/user-attachments/assets/9ff5a598-49c5-4fda-b40c-513bf9ef7134)
+
+
+**Insights:**
+
+- Vehicle sales are highest in Hyderabad, followed closely by Medchal Malkajgiri and Rangareddy, mainly due to their urban population and economic activities.
+- Urban areas tend to have higher sales due to better job opportunities and infrastructure.
+- Sangareddy and Nizamabad, Warangal, Vikarabad, and Mahabubnagar represent growth opportunities for the automotive sector.
+
+### Monthly wise vehicle sales (Fuel –Type Category)
+
+
+![image](https://github.com/user-attachments/assets/7ed3580f-c4d4-4644-89a6-3af928d2ad07)
+
+**Insights:**
+
+- **Peak in October:** Celebrations during Dasara and Devi Nava Rathiri boost sales, with people taking advantage of special discounts.
+- **Lowest in April 2020 and May 2021:** The COVID-19 pandemic led to a sharp decline in sales.
+-  **Steady trend:** However, sales remained consistent from December 2021 to September 2022, indicating stability in the market.
+- **Challenges:** Sales Drop in November and December 2022 due to rising inflation and Decreased ownership costs.
+
+
+### 📌Q6: How does the distribution of vehicles vary by vehicle class (MotorCycle, MotorCar, AutoRickshaw, Agriculture) across different districts? Are there any districts with a predominant preference for a specific vehicle class? Consider FY 2022 for analysis
+
+ **Top 5 Districts Motor Cycle Vehicles sales:**
+
+
+
+![image](https://github.com/user-attachments/assets/e461ee0f-ea09-4714-b1e4-052e8fc32abc)
+
+**Insights:**
+
+- Motorcycle sales were highest in Hyderabad, followed by Medchal Malkajgiri and Rangareddy, indicating a preference for motorcycles. 
+- Sangareddy and Nizamabad also in motorcycles sales.This suggests that motorcycles are a popular choice for daily commuting in these districts, offering flexibility for employees traveling within a 20km range to their workplaces.
+
+ **Top 5 Districts Motor Cars Vehicles sales:**
+
+
+![image](https://github.com/user-attachments/assets/c4a03e10-b44e-4d6f-abf0-b93b2e171b28)
+
+**Insights:**
+
+- In FY 2022, Rangareddy leads in car sales, closely followed by Medchal Malkajgiri, and Hyderabad also shows strong demand for cars.
+- Sangareddy and Khammam indicate a preference for cars due to good infrastructure and the emergence of major IT hubs, prompting individuals to opt for their own vehicles for daily commuting.
+
+
+ **Top 5 Districts Auto Rickshaws Vehicles sales:**
+
+
+ ![image](https://github.com/user-attachments/assets/b5329b6c-9019-4173-bd62-d4c1702252ee)
+
+**Insights:**
+
+
+- Auto rickshaws play a crucial role in transportation in Hyderabad, Sangareddy, Khammam, Vikarabad, and Bhadradri Kothagudem.
+- Serving as vital options for last-mile travel and creating job opportunities across urban and rural areas.
+
+
+ **Top 5 Districts Agriculture Vehicles sales:**
+
+
+ ![image](https://github.com/user-attachments/assets/f501fd5b-eb4a-4695-aa80-10fcdcf23154)
+
+
+- **Insights:** Nalgonda, Siddipet, Suryapet, Khammam, and Bhadradri Kothagudem are the top districts in FY 2022 for agriculture vehicle preference. These districts likely have a significant agricultural sector, where these vehicles are essential for farming activities. This indicates the importance of agriculture in these regions for livelihoods and the economy.
+
+
+### 📌Q7: List down the top 3 and bottom 3 districts that have shown the highest and lowest vehicle sales growth during FY 2022 compared to FY 2021? (Consider and compare categories: Petrol, Diesel and Electric)
+
+ **Top 3 Districts Fuel vehicle Sales Growth:**
+
+
+![image](https://github.com/user-attachments/assets/9965b108-e4e7-4fc5-9183-8e13ddedb7b5)
+
+- **Insights:** Top 3 districts with fuel sales growth in 2022 compared to 2021 are Rangareddy leads with an impressive 12.5% growth rate, followed closely by Hyderabad at 4.7%, and Karimnagar at 4.4%. These growth figures highlight the robust economic activity and urbanization trends in these districts.
+ 
+- **Bootom 3 Districts Fuel vehicle Sales Growth:**
+
+
+![image](https://github.com/user-attachments/assets/3c399da7-46cc-4dc8-b7df-a5c01e47d7f8)
+
+ **Insights:**
+- - Bottom 3 Districts in vehicle sales in 2022 compared to 2021 Warangal, Jagtial, and Nirmal districts faced substantial drops in vehicle sales at -44.7%, -37.1%, and -34.4% respectively
+- - These declines highlight the need to tailor business approaches to fit local market. changing consumer preferences
+
