@@ -328,3 +328,86 @@ visit [IPASS]
 -  A positive correlation exists, indicating that districts with higher vehicle sales tend to have more revenue from e-stamp collections and investments
 - Top-Performing Districts: Rangareddy, Medchal Malkajgiri, and Sangareddy emerge as leading districts in terms of revenue, Hyderabad has less in  investments
 
+### 📌Q11:  Are there any particular sectors that have shown substantial investment in multiple districts between FY 2021 and 2022?
+
+### Top 10 Districts  multiple sectors Investments between FY 2021 and 2022
+
+
+![image](https://github.com/user-attachments/assets/0e56b1d1-2cf2-4145-9387-4fe4696eb545)
+
+**Insights:**
+- Rangareddy top investment in  Real Estate & Parks 
+- Sangareddy, Medchal, Yadadri Bhuvanagiri, Nalgonda as investment in Pharmaceutical & Chemicals
+- In Medak have invest in Engineering
+- Narayanpet,  Siddipet have Beverages, Agro & Cold Storages
+
+
+### 📌Q12: Can we identify any seasonal patterns or cyclicality in the investment trends for specific sectors? Do certain sectors experience higher investments during particular months?
+
+### Investment trends for specific sectors
+
+
+![image](https://github.com/user-attachments/assets/9121c376-3db9-4c27-8cf1-a1f310e77fef)
+
+**Insights:**
+
+- In February 2020  had higher investments compared to other months, with the majority of investments coming from the real estate, industrial parks, and IT buildings sector. The rest of the months had more stable investment patterns.
+- In August 2022, there was a significant in investments in the rubber and plastic sector, as well as in real estate, IT buildings, and industrial parks.
+- In general, it appears that real estate, industrial parks, and IT buildings  sector consistently attract  investments.
+
+
+## Secondary Research:
+
+### 📌Q1. What are the top 5 districts to buy commercial properties in Telangana? Justify your answer.
+
+**Insights:**
+
+- **1.Hyderabad:** Hyderabad is not only the capital but also the largest city in Telangana. It boasts a thriving IT sector, pharmaceutical industry, and various other businesses. This diverse economic landscape makes it an attractive destination for commercial property investments. 
+
+- **2.Rangareddy:** This district has seen  growth in commercial real estate. Its proximity to the city and the presence of IT parks, industrial zones, and SEZs make it a favorable choice for businesses looking to capitalize on Hyderabad's economic opportunities.
+
+- **3.Medchal Malkajgiri:** This district's rapid urbanization and infrastructure development have made it a hotspot for commercial property investments. Its strategic location, situated to the north of Hyderabad, 
+
+- **4.Sangareddy:** Sangareddy district is emerging as a key player in the Rubber and plastic market. Its location along the National Highway and the proposed Regional Ring Road has attracted industries and logistics businesses. Government initiatives to boost infrastructure and connectivity further enhance its potential.
+
+- **5.Warangal Urban:** The district's industrial parks and improved road networks have encouraged businesses to invest in commercial properties. Its central location in the state also adds to its attractiveness.
+
+### 📌Q2. What significant policies or initiatives were put into effect to enhance economic growth, investments, and employment in Telangana by the current government? Can we quantify the impact of these policies using available data?
+
+ **Insights:**
+- **TS-IPASS:** This  process for obtaining approvals and permissions has led to a significant increase in approved projects, investments, and job creation.
+ 
+- **Dharani:** Integrated Land Records is the official portal for registration of agricultural and non-agricultural public property in the state of Telangana. Dharani was started by the Telangana government (land administration department) for the first time in the country.
+
+- **Mission Bhagiratha:** Bhagiratha is a significant water project in Telangana, aimed at providing clean piped water to millions of people in both urban and rural areas. The project sources water from Rivers Godavari and Krishna and is scheduled for completion by December 2018, 
+
+- **T-Hub and T-Works:** Initiative innovation and entrepreneurship, contributing to economic growth and job opportunities in the technology sector.
+
+- **Infrastructure Development:** Heavy investments in infrastructure development have enhanced the state's attractiveness for businesses and residents.
+
+### 📌Q3(a). Provide top 5 Insights to Telangana government for sustained growth in the next 5 years based on your analysis
+
+ **Insights:**
+
+- **1.Strategic Investment in Infrastructure:** The concentration of investments in districts like Rangareddy, Sangareddy, and Medchal Malkajgiri suggests that these areas have strategically invested in infrastructure, making them more appealing to businesses. For instance, Rangareddy has attracted over 43K crore rupees in investments, largely due to such strategic infrastructure developments.
+
+- **2.Sector Diversity:** investments are spread across a wide range of sectors. These include plastic and rubber, automobile, pharmaceuticals, and chemicals. This diversity in investment sectors is a good sign for the state's economy, making it more stable and adaptable.
+
+- **3.Document registration revenue:** in districts like Mulugu, Adilabad, Karimnagar, Mancherial, and Medchal Malkajgiri. For example, Mulugu's revenue from document registration grew by 28.3%, indicating a lot of economic activity."
+
+- **4.In car sales:** in different areas tells us that people are buying cars differently in each place. This can help businesses sell the right cars in each area. For example, in Warangal, car sales went down a lot by -44.7%, and in Nirmal, they went down by -34.4%.
+
+- **5. Seasonal investment:** that certain sectors, like fertilizers and real estate, witness heigh activity. For instance, December 2019 saw significant investments, especially in the fertilizer, real estates sector, while February 2020 and August 2022 also record investments 
+
+ ### 📌Q3(b). Top 5 recommendations to Telangana government for sustained growth in the next 5 years based on your analysis.
+
+- **Diverse Economy:** Encourage the development of emerging sectors to reduce dependence on specific industries.
+
+- **Balanced Development:** Allocate funds and initiate projects in smaller towns and rural areas to faster economic growth and development across the entire state.
+
+- **Data-Driven Decisions:** Utilize data wisely to make informed decisions  This way, the government can make better rules and  changes in business.
+
+- **Sustainability Focus:** Be Earth-Friendly Support businesses that don't hurt the environment. Make sure growth is good for nature and society for a cleaner and better future.
+
+- **Skill Building:** Teach Skills: Make sure people have the right training for new jobs. Invest in schools and training centers to help everyone get ready for better work.
+ 
