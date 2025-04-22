@@ -122,3 +122,5 @@ visit [IPASS]
 
 - **Document Registation:** Document registration is like an official seal of approval from the government. It's used for things like property transactions, contracts, or wills. it's typically done through a manual, offline process.
 
+
+![Doc_registration-removebg-preview](https://github.com/user-attachments/assets/27342790-27a1-4121-8608-dc6380179ef1)
