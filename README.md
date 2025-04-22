@@ -124,3 +124,16 @@ visit [IPASS]
 
 
 ![Doc_registration-removebg-preview](https://github.com/user-attachments/assets/27342790-27a1-4121-8608-dc6380179ef1)
+
+- **E-Satmp registration:**  E-stamp registration is a modern way of doing the same thing but using computers instead of paper. Instead of physical stamps. This way is more secure, making it harder for people to fake documents. It's also faster and more convenient because it's done online.
+
+
+![Estamp_registration](https://github.com/user-attachments/assets/ed91a144-69ba-4dd3-8661-c81eea609ce7)
+
+
+### 📌Q1: How does the revenue generated from document registration vary across districts in Telangana? List down the top 5 districts that showed the highest document registration revenue growth between FY 2019 and 2022.
+
+ ### Top 5 Districts by Document registration revenue
+
+ ![image](https://github.com/user-attachments/assets/33db5c3d-ed16-4df0-80ae-87eb458001e9)
+
